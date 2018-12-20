@@ -2,7 +2,8 @@
 
 echo "=====================\n";
 
-echo ",+                                         
+echo "                                  
+                                           
                                                    +#+                                        
                                                    ###,                                       
                                                   +####                                       
@@ -101,6 +102,8 @@ echo ",+
                                   `+###++.                   :+##+                            
                                      `++###+++;.`     `,;+++#++`                              
                                          `'+++##########++'.                                  
+                                                
+                                
 \n";
 
 echo "From KaliwunguPeople\n";
@@ -133,7 +136,7 @@ echo "Jumlah : (1-100)\nInput : ";
 
 $jumlah = trim(fgets(STDIN));
 
-for($a=0;$a<$jumlah;$a++) {
+for($a=0;$a<$jumlah;$a++) 
 
 	$rand1 = md5(rand(12345678,98765432));
 
