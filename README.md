@@ -1,7 +1,8 @@
 # bomWA
-tools untuk menjaili temanmu, buatlah Whatsapp temanmu rame😀
 
-command;
+Tools ini sangat jail, buatlah Whatsapp temanmu rame😀
+
+Command;
 
 cd bomWA
 php bomWA.php
