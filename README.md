@@ -2,11 +2,11 @@
 
 Tools ini sangat jail, buatlah Whatsapp temanmu rame😀
 
-Command;
 
-cd bomWA -> php bomWA.php
+Thanks you <3
 
-Thank's you <3
+
+
 
 
 
